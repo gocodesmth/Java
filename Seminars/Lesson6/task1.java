@@ -14,8 +14,8 @@ public class task1 {
         Laptop laptop1 = new Laptop("Lenovo IdealPad 5", 8, 256, "Windows 11", "синий", 15.6);
         Laptop laptop2 = new Laptop("Honor MagicBook 16", 16, 512, "без ОС", "серый", 16.1);
         Laptop laptop3 = new Laptop("Apple MacBook Air 13", 8, 256, "MacOs", "золотистый", 13.3);
-        Laptop laptop4 = new Laptop("HP 250 G7", 4, 1024, "без ОС", "черный", 15.6);
-        Laptop laptop5 = new Laptop("Xiomi RedmiBook 15", 8, 256, "Windows 11", "серый", 15.6);
+        Laptop laptop4 = new Laptop("HP 250 G7", 32, 1024, "без ОС", "черный", 15.6);
+        Laptop laptop5 = new Laptop("Xiomi RedmiBook 15", 4, 256, "Windows 11", "серый", 15.6);
         Laptop laptop6 = laptop1;
 
         Set<Laptop> unicLaptop = new HashSet<Laptop>();
